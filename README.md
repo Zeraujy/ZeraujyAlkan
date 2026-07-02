@@ -1,4 +1,4 @@
-# ZeraujyAlkan
+# Zeraujy Alkan
 Sobre mim:
 
 Tenho 23 anos e construo coisas em diferentes linguagens criativas: ilustração, design gráfico, música e escrita.
