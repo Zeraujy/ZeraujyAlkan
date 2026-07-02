@@ -9,8 +9,9 @@
 
 ## 🌐 Links
 
-[![Website](https://img.shields.io/badge/🌐%20Meu%20Site-Visit-black?style=for-the-badge)](https://www.maskstudio.com.br)
-[![instagram](https://img.shields.io/badge/🌐%20Instagram-Visit-black?style=for-the-badge)](https://www.instagram.com/jiyuriartz/)
+[![Website](https://img.shields.io/badge/🌐%20Meu%20Site-Acesse-black?style=for-the-badge)](https://www.maskstudio.com.br)
+[![instagram](https://img.shields.io/badge/🌐%20Instagram-Acesse-black?style=for-the-badge)](https://www.instagram.com/jiyuriartz/)
+
 ---
 
 ━━━━━━━━━━━━━━━━━━━━
@@ -24,4 +25,7 @@
 - 📖 In addition, I’m the writer of an original novel, building my own worlds and stories.
 - 💻 Currently, I’m learning programming, expanding my creative skills into interactive and technical spaces.
 
-Check my website: https://www.maskstudio.com.br
+## 🌐 Links
+
+[![Website](https://img.shields.io/badge/🌐%20My%20Website-Visit-black?style=for-the-badge)](https://www.maskstudio.com.br)
+[![instagram](https://img.shields.io/badge/🌐%20Instagram-Visit-black?style=for-the-badge)](https://www.instagram.com/jiyuriartz/)
