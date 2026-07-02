@@ -10,7 +10,7 @@
 ## 🌐 Links
 
 [![Website](https://img.shields.io/badge/🌐%20Meu%20Site-Visit-black?style=for-the-badge)](https://www.maskstudio.com.br)
-[![instagram](https://img.shields.io/badge/🌐%20Meu%20Site-Visit-black?style=for-the-badge)](https://www.instagram.com/jiyuriartz/)
+[![instagram](https://img.shields.io/badge/🌐%20Instagram-Visit-black?style=for-the-badge)](https://www.instagram.com/jiyuriartz/)
 ---
 
 ━━━━━━━━━━━━━━━━━━━━
