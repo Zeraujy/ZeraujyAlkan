@@ -7,8 +7,10 @@
 - 📖 Também escrevo minha própria novel original, criando mundos e histórias autorais.
 - 💻 Atualmente, estou aprendendo programação, transformando ideias em algo ainda mais interativo e vi!
 
-Acesse meu site: https://www.maskstudio.com.br
+## 🌐 Links
+
 [![Website](https://img.shields.io/badge/🌐%20Meu%20Site-Visit-black?style=for-the-badge)](https://www.maskstudio.com.br)
+[![instagram](https://img.shields.io/badge/🌐%20Meu%20Site-Visit-black?style=for-the-badge)](https://www.instagram.com/jiyuriartz/)
 ---
 
 ━━━━━━━━━━━━━━━━━━━━
